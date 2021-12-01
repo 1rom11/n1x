@@ -10,7 +10,7 @@ echo "
 2. Open replit.nix 
 Do H for Help " h12e
 		case $h12e in
-			[Hh]* ) cat help.txt;;
+			[Hh]* ) node index.html;;
 			[1]* ) bash app.bash;;
 			[2]* ) nano replit.nix;;
 			[Ee]* ) echo "Exited | Do bash main.bash to open again" && exit;;
