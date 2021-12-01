@@ -1,4 +1,4 @@
-#!/bin/bash
+	#!/bin/bash
 	while true; do
 		read -p "Chose a app. Do 'list' for a list " l123e
 		case $l123e in

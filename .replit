@@ -1,1 +1,1 @@
-run = "bash main.bash"
+run = "bash main.bash && short.bash"
