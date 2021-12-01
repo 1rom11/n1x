@@ -2,34 +2,8 @@
 
 > Warning: Nix support on Replit is still under heavy development and is subject to change.
 
-You've just created a new Nix repl. There's not much here yet but with a little work you can use it as the starting point for *ANYTHING*.
-
-To get started there are 2 config files that you can use to customize the environment. To show them click the 3 dots menu button in the file tree and then click "Show config files".
-
-* `replit.nix` - Configures the nix environment
-
-This file should look something like the example below. The `deps` array specifies which Nix packages you would like to be available in your environment. You can search for Nix packages here: https://search.nixos.org/packages
-
-```
-{ pkgs }: {
-	deps = [
-		pkgs.cowsay
-		pkgs.zig
-	];
-}
-```
-
-* `.replit` - Configures the run command
-
-The run command in this file should look something like this. You can use any binary made available by your `replit.nix` file in this run command.
-
-```
-run = "cowsay Welcome to nix on Replit!"
-```
-
-Once both those files are configured and you add files for your language, you can run you repl like normal, with the run button.
-
-Both the Console and Shell will pick up changes made to your `replit.nix` file. However, once you open the Shell tab, the environment will not update until you run `exit`. This will close out the existing `shell` process and start a new one that includes any changes that you made to your `replit.nix` file.
+# What is n1x?
+n1x is a custom bash based os from nix. It is made in replit and it is still underdevelopment
 
 ## Learn More About Nix
 
