@@ -15,4 +15,4 @@ If you'd like to learn more about Nix, here are some great resources:
 * [Nix Package Manager Guide](https://nixos.org/manual/nix/stable/) - A comprehensive guide of the Nix Package Manager
 * [A tour of Nix](https://nixcloud.io/tour) - Learn the nix language itself
 
-Help page: [Very cool link ngl](./help.index.html)
+Help page: [Very cool link ngl](/help/index.html)
