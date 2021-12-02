@@ -14,3 +14,5 @@ If you'd like to learn more about Nix, here are some great resources:
 * [Nixology](https://www.youtube.com/playlist?list=PLRGI9KQ3_HP_OFRG6R-p4iFgMSK1t5BHs) - A series of videos introducing Nix in a practical way
 * [Nix Package Manager Guide](https://nixos.org/manual/nix/stable/) - A comprehensive guide of the Nix Package Manager
 * [A tour of Nix](https://nixcloud.io/tour) - Learn the nix language itself
+
+Help page: [Very cool link ngl](./help.index.html)
