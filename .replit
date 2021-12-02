@@ -1,1 +1,1 @@
-run = "bash main.bash && short.bash"
+run = "firefox ./help/index.html"
