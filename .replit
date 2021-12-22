@@ -1,1 +1,1 @@
-run = "firefox ./help/index.html"
+run = "bash main.bash"
