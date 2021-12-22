@@ -1,6 +1,7 @@
 start:
 	clear
 	bash main.bash
+
 cleanall:
 	rm *.py
 	rm *.c
